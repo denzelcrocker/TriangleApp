@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "71755ce3-0fd2-4543-8ec3-cb72854fe915": {
+      "ProjectGuid": "71755ce3-0fd2-4543-8ec3-cb72854fe915",
+      "DisplayName": "TriangleApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

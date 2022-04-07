@@ -1,0 +1,16 @@
+C:\Users\zelen\Desktop\TriangleApp\TriangleApp\bin\Debug\TriangleApp.exe.config
+C:\Users\zelen\Desktop\TriangleApp\TriangleApp\bin\Debug\TriangleApp.exe
+C:\Users\zelen\Desktop\TriangleApp\TriangleApp\bin\Debug\TriangleApp.pdb
+C:\Users\zelen\Desktop\TriangleApp\TriangleApp\obj\Debug\TriangleApp.csproj.AssemblyReference.cache
+C:\Users\zelen\Desktop\TriangleApp\TriangleApp\obj\Debug\TriangleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\zelen\Desktop\TriangleApp\TriangleApp\obj\Debug\MainWindow.g.cs
+C:\Users\zelen\Desktop\TriangleApp\TriangleApp\obj\Debug\App.g.cs
+C:\Users\zelen\Desktop\TriangleApp\TriangleApp\obj\Debug\TriangleApp_MarkupCompile.cache
+C:\Users\zelen\Desktop\TriangleApp\TriangleApp\obj\Debug\TriangleApp_MarkupCompile.lref
+C:\Users\zelen\Desktop\TriangleApp\TriangleApp\obj\Debug\MainWindow.baml
+C:\Users\zelen\Desktop\TriangleApp\TriangleApp\obj\Debug\TriangleApp.g.resources
+C:\Users\zelen\Desktop\TriangleApp\TriangleApp\obj\Debug\TriangleApp.Properties.Resources.resources
+C:\Users\zelen\Desktop\TriangleApp\TriangleApp\obj\Debug\TriangleApp.csproj.GenerateResource.cache
+C:\Users\zelen\Desktop\TriangleApp\TriangleApp\obj\Debug\TriangleApp.csproj.CoreCompileInputs.cache
+C:\Users\zelen\Desktop\TriangleApp\TriangleApp\obj\Debug\TriangleApp.exe
+C:\Users\zelen\Desktop\TriangleApp\TriangleApp\obj\Debug\TriangleApp.pdb
